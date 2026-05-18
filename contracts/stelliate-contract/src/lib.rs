@@ -2,6 +2,7 @@
 
 mod types;
 mod errors;
+mod test;
 
 use soroban_sdk::{contract, contractimpl, token, Address, Env};
 use types::{Affiliate, DataKey, MerchantConfig};
