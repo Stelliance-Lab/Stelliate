@@ -136,8 +136,8 @@ stelliate/
 ### Install
 
 ```bash
-git clone https://github.com/your-org/stelliate.git
-cd stelliate
+git clone https://github.com/Stelliance-Lab/Stelliate.git
+cd Stelliate
 ```
 
 ### Build Contracts
