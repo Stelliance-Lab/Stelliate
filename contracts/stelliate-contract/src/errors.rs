@@ -11,4 +11,5 @@ pub enum Error {
     AffiliateInactive = 5,
     InsufficientEscrow = 6,
     InvalidCommission = 7,
+    InvalidAmount = 8,
 }
